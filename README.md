@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Find me at <a href="kaiferrall.com">kaiferrall.com</a>
+Find me at <a href="http://kaiferrall.com">kaiferrall.com</a>
 
 <!--
 **kaiferrall/kaiferrall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
