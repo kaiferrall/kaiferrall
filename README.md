@@ -8,6 +8,12 @@
   <li>
     <a href="https://www.linkedin.com/in/kaiferrall/">LinkedIn</a>
   </li>
+  <li>
+    <a href="https://leetcode.com/ferrall/">LeetCode</a>
+  </li>
+  <li>
+    <a href="https://codeforces.com/profile/kai.f">Codeforces</a>
+  </li>
 </ul>
 <br />
 
